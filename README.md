@@ -9,7 +9,7 @@ Preferred role(s) are suggestions. If there is disagreement, we'll vote.
 Name    |GitHub username    |Preferred role(s)
 --------|-------------------|------------------------------------------------
 Apu     |                   |
-Boris   |                   |
+Boris   | @boman0815        | Game design, Sound
 Josh    |                   |
 Marina  |                   |
 Pedro   |                   |
